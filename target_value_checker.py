@@ -1,0 +1,1 @@
+# Write a Python function that takes a sorted list of numbers and a target value as input and returns the index of the target value if found, otherwise returns -1 (Please use binary search) 
